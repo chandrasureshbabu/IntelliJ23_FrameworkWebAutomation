@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class DriverFactory {
 
     public static WebDriver driver;
-    static String Browser ="Chrome";
+    static String Browser ="Edge";
 
     public static  WebDriver initializeDriver()
     {
